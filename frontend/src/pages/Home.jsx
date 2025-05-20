@@ -1,5 +1,5 @@
 import Header from "../components/Header-components/Header";
-import Footer from '../components/footer';
+import Footer from '../components/Footer';
 import Welcome from '../components/Welcome';
 import WhoWeAre from '../components/WhoWeAre';
 import Catalog from '../components/Catalog';
